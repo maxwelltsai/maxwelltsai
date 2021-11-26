@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning quantum reinforcement learning.
 
-💞️ I’m looking to collaborate on physics informed neural networks.
+💞️ I’m looking to collaborate on (high performance) deep neural networks for physical sciences
 
 📫 I can reached by emails.
 
